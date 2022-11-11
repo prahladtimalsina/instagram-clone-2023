@@ -1,6 +1,12 @@
 ## Link
 
+Dark Mode             |        Default
+:-------------------------:|:-------------------------:
+![Instagram Clone](prahlad-timalsina-instagram-clone.png)  |  ![Instagram Clone](prahlad-timalsina-instagram-clone-white.png)
+
+## Overview
 ![Instagram Clone](prahlad-timalsina-instagram-clone.png)
+![Instagram Clone](prahlad-timalsina-instagram-clone-white.png)
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
